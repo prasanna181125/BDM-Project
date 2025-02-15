@@ -1,4 +1,4 @@
-# BDM-Project
+# Analyzing and Visualizing Regional Sales Perfor
 Project Details:
 Data cleaning and preprocessing in Excel.
 Searching and filtering data.
