@@ -1,4 +1,8 @@
-# Analyzing and Visualizing Regional Sales Perfor
+# Analyzing and Visualizing Regional Sales Performance
+Problem statement :
+ABC Electronics wants to assess its sales performance across different regions and product categories.
+The management needs a summarized report with visual insights to identify top-performing regions, products, and trends.
+As a business analyst, your task is to clean the data, analyze it using formulas, and create a basic dashboard that provides actionable insights.
 Project Details:
 Data cleaning and preprocessing in Excel.
 Searching and filtering data.
